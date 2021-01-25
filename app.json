@@ -1,0 +1,12 @@
+{
+  "name": "budj-frontend",
+  "displayName": "budj-frontend",
+  "expo": {
+    "name": "budj-frontend",
+    "slug": "budj-frontend",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
